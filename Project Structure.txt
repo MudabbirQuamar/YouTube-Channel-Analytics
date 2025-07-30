@@ -1,0 +1,24 @@
+Drug_price_monitoring/
+│
+├── dags/
+│   └── drug_price_pipeline.py        # Airflow DAG to run the pipeline
+│
+├── data/
+│   └── raw/                          # Store raw JSON responses (optional, for debugging)
+│   └── processed/                    # Store transformed CSVs if needed
+│
+├── scripts/
+│   ├── fetch_data.py                 # Fetch drug pricing/approval data from API
+│   ├── transform_data.py            # Clean and process raw data
+│   └── load_data.py                 # Load data into PostgreSQL
+│
+├── db/
+│   └── schema.sql                    # SQL file to create tables
+│
+├── utils/
+│   └── helpers.py                    # Reusable functions (logging, configs, etc.)
+│
+├── requirements.txt                 # All Python packages used
+├── docker-compose.yml               # (Optional) If using Docker + Postgres + Airflow
+├── README.md                        # Project description, tech stack, screenshots
+└── .env                             # Store DB creds (don’t push this to GitHub)

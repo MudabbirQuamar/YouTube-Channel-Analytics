@@ -1,0 +1,3163 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "l5-Ary_EDXqeQ3y7d7QsufcggUE",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "SbbIwSdRyAfMErS7eJM-zrKhTUM",
+            "id": "m7VcIH_N9ZY",
+            "snippet": {
+                "publishedAt": "2025-05-10T16:16:42Z",
+                "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
+                "title": "How to get Tech Placement in 6 Months? Study plan for Software Engineering Placements",
+                "description": "Want to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\nShradha Khapra Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/m7VcIH_N9ZY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/m7VcIH_N9ZY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/m7VcIH_N9ZY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/m7VcIH_N9ZY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/m7VcIH_N9ZY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apna College",
+                "tags": [
+                    "C++",
+                    "C++ coding",
+                    "C++ full course",
+                    "C++ placement course",
+                    "how to code",
+                    "programming",
+                    "college placement course",
+                    "C++ language",
+                    "java",
+                    "java language",
+                    "java full course",
+                    "java placement",
+                    "java code",
+                    "java coding"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "How to get Tech Placement in 6 Months? Study plan for Software Engineering Placements",
+                    "description": "Want to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\nShradha Khapra Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/"
+                },
+                "defaultAudioLanguage": "hi"
+            },
+            "statistics": {
+                "viewCount": "223214",
+                "likeCount": "12605",
+                "favoriteCount": "0",
+                "commentCount": "695"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "d3Xzjv-LD8f5FZEiLhtA1jM_XSM",
+            "id": "CuQmQpvw04I",
+            "snippet": {
+                "publishedAt": "2025-05-01T16:28:14Z",
+                "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
+                "title": "Complete System Design Roadmap 2025 | HLD & LLD by Shradha Ma'am",
+                "description": "Share your progress on Twitter : https://x.com/ShradhaKhapra_\n\nWant to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\nShradha Khapra Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/\n\n00:00 - Introduction \n00:32 - What is System Design?\n01:12 - High Level Design \n01:36 - Low Level Design \n02:35 - Detailed discussion on HLD\n04:19 - Basic Fundamentals \n05:56 - Databases \n06:43 - Consistency & Availability \n08:16 - Cache\n09:30 - Networking \n10:03 - Load Balancers\n10:27 - Message Queues \n11:08 - Monoliths vs. Microservices \n11:55 - Monitoring and Logging \n12:44 - Security \n13:07 - System Design Tradeoffs\n15:39 - Netflix (an example of HLD) \n16:53 - Detailed discussion on LLD\n16:58 - OOPS Concepts \n17:16 - Design Patterns \n17:34 - Concurrency and thread safety \n17:56 - UML Diagrams\n18:20 - APIs \n18:46 - Common LLD Problems",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CuQmQpvw04I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CuQmQpvw04I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CuQmQpvw04I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/CuQmQpvw04I/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/CuQmQpvw04I/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apna College",
+                "tags": [
+                    "C++",
+                    "C++ coding",
+                    "C++ full course",
+                    "C++ placement course",
+                    "how to code",
+                    "programming",
+                    "college placement course",
+                    "C++ language",
+                    "java",
+                    "java language",
+                    "java full course",
+                    "java placement",
+                    "java code",
+                    "java coding"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Complete System Design Roadmap 2025 | HLD & LLD by Shradha Ma'am",
+                    "description": "Share your progress on Twitter : https://x.com/ShradhaKhapra_\n\nWant to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\nShradha Khapra Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/\n\n00:00 - Introduction \n00:32 - What is System Design?\n01:12 - High Level Design \n01:36 - Low Level Design \n02:35 - Detailed discussion on HLD\n04:19 - Basic Fundamentals \n05:56 - Databases \n06:43 - Consistency & Availability \n08:16 - Cache\n09:30 - Networking \n10:03 - Load Balancers\n10:27 - Message Queues \n11:08 - Monoliths vs. Microservices \n11:55 - Monitoring and Logging \n12:44 - Security \n13:07 - System Design Tradeoffs\n15:39 - Netflix (an example of HLD) \n16:53 - Detailed discussion on LLD\n16:58 - OOPS Concepts \n17:16 - Design Patterns \n17:34 - Concurrency and thread safety \n17:56 - UML Diagrams\n18:20 - APIs \n18:46 - Common LLD Problems"
+                },
+                "defaultAudioLanguage": "hi"
+            },
+            "statistics": {
+                "viewCount": "127682",
+                "likeCount": "5311",
+                "favoriteCount": "0",
+                "commentCount": "362"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "OB7o0Dq7xCDGOlTBcKKVLtkXP18",
+            "id": "wqr8ergP2aw",
+            "snippet": {
+                "publishedAt": "2025-04-17T16:54:37Z",
+                "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
+                "title": "How they cracked Rs 12+ LPA at ACCENTURE as Advanced Engineering Application Analyst?",
+                "description": "Accenture Placement & Selection Process. Accenture Interview Process.\n\nWant to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\nShradha Khapra Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/\n\n#accenture #placement #selectionprocess",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wqr8ergP2aw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wqr8ergP2aw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wqr8ergP2aw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/wqr8ergP2aw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/wqr8ergP2aw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apna College",
+                "tags": [
+                    "C++",
+                    "C++ coding",
+                    "C++ full course",
+                    "C++ placement course",
+                    "how to code",
+                    "programming",
+                    "college placement course",
+                    "C++ language",
+                    "java",
+                    "java language",
+                    "java full course",
+                    "java placement",
+                    "java code",
+                    "java coding"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "How they cracked Rs 12+ LPA at ACCENTURE as Advanced Engineering Application Analyst?",
+                    "description": "Accenture Placement & Selection Process. Accenture Interview Process.\n\nWant to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\nShradha Khapra Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/\n\n#accenture #placement #selectionprocess"
+                },
+                "defaultAudioLanguage": "hi"
+            },
+            "statistics": {
+                "viewCount": "82769",
+                "likeCount": "2396",
+                "favoriteCount": "0",
+                "commentCount": "215"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "1euIAEoyR_k_Q4dO4bJnzoShR5k",
+            "id": "7tzHzN_Ehus",
+            "snippet": {
+                "publishedAt": "2025-04-06T17:36:03Z",
+                "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
+                "title": "L.84 Height of a Binary Tree | Count of Nodes in a Binary Tree",
+                "description": "Lecture 84 of DSA Placement Series \nProblem 1 : Height of a Binary Tree \nProblem 2 : Count the Nodes of a Binary Tree\n\nCompany wise DSA Sheet : Web version (coming soon \ud83d\ude80)\n\nWant to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7tzHzN_Ehus/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7tzHzN_Ehus/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7tzHzN_Ehus/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/7tzHzN_Ehus/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/7tzHzN_Ehus/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apna College",
+                "tags": [
+                    "C++",
+                    "C++ coding",
+                    "C++ full course",
+                    "C++ placement course",
+                    "how to code",
+                    "programming",
+                    "college placement course",
+                    "C++ language",
+                    "java",
+                    "java language",
+                    "java full course",
+                    "java placement",
+                    "java code",
+                    "java coding"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "L.84 Height of a Binary Tree | Count of Nodes in a Binary Tree",
+                    "description": "Lecture 84 of DSA Placement Series \nProblem 1 : Height of a Binary Tree \nProblem 2 : Count the Nodes of a Binary Tree\n\nCompany wise DSA Sheet : Web version (coming soon \ud83d\ude80)\n\nWant to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/"
+                },
+                "defaultAudioLanguage": "hi"
+            },
+            "statistics": {
+                "viewCount": "28627",
+                "likeCount": "733",
+                "favoriteCount": "0",
+                "commentCount": "173"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "ulpBk-CQnIS9veiheL9lcLhrGhY",
+            "id": "2kCTmlU0RPg",
+            "snippet": {
+                "publishedAt": "2025-04-03T16:52:00Z",
+                "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
+                "title": "WAKE UP CALL for 1st, 2nd year students - Know what's your Goal",
+                "description": "Want to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2kCTmlU0RPg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2kCTmlU0RPg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2kCTmlU0RPg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2kCTmlU0RPg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/2kCTmlU0RPg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apna College",
+                "tags": [
+                    "C++",
+                    "C++ coding",
+                    "C++ full course",
+                    "C++ placement course",
+                    "how to code",
+                    "programming",
+                    "college placement course",
+                    "C++ language",
+                    "java",
+                    "java language",
+                    "java full course",
+                    "java placement",
+                    "java code",
+                    "java coding"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "WAKE UP CALL for 1st, 2nd year students - Know what's your Goal",
+                    "description": "Want to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/"
+                },
+                "defaultAudioLanguage": "hi"
+            },
+            "statistics": {
+                "viewCount": "578885",
+                "likeCount": "34360",
+                "favoriteCount": "0",
+                "commentCount": "1262"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "zADAPiqjdGxUBEGblt2A_QPV2kw",
+            "id": "eKJrXBCRuNQ",
+            "snippet": {
+                "publishedAt": "2025-03-30T13:49:03Z",
+                "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
+                "title": "Binary Trees in Data Structures | Tree Traversal | DSA Placement Series",
+                "description": "This is Lecture 83 of DSA Placement Series \nComplete Playlist Link : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\n\ud83d\ude80NEW DSA SHEET Website (COMING SOON!)\n\nCompany wise DSA Sheet Link : https://docs.google.com/spreadsheets/d/1mvlc8EYc3OVVU3X7NKoC0iZJr_45BL_pVxiJec0r94c/edit?usp=sharing\n\nWant to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eKJrXBCRuNQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eKJrXBCRuNQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eKJrXBCRuNQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/eKJrXBCRuNQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/eKJrXBCRuNQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apna College",
+                "tags": [
+                    "C++",
+                    "C++ coding",
+                    "C++ full course",
+                    "C++ placement course",
+                    "how to code",
+                    "programming",
+                    "college placement course",
+                    "C++ language",
+                    "java",
+                    "java language",
+                    "java full course",
+                    "java placement",
+                    "java code",
+                    "java coding"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Binary Trees in Data Structures | Tree Traversal | DSA Placement Series",
+                    "description": "This is Lecture 83 of DSA Placement Series \nComplete Playlist Link : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\n\ud83d\ude80NEW DSA SHEET Website (COMING SOON!)\n\nCompany wise DSA Sheet Link : https://docs.google.com/spreadsheets/d/1mvlc8EYc3OVVU3X7NKoC0iZJr_45BL_pVxiJec0r94c/edit?usp=sharing\n\nWant to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/"
+                },
+                "defaultAudioLanguage": "hi"
+            },
+            "statistics": {
+                "viewCount": "51311",
+                "likeCount": "1346",
+                "favoriteCount": "0",
+                "commentCount": "124"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "PM-JAj5Xn9Holl9DUDW181_Q4cc",
+            "id": "r4pm-bMvrkQ",
+            "snippet": {
+                "publishedAt": "2025-03-24T16:51:49Z",
+                "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
+                "title": "DSA + Development  + CP  got him Dream Package! at Phonepe | Interview lessons",
+                "description": "Want to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/r4pm-bMvrkQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/r4pm-bMvrkQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/r4pm-bMvrkQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/r4pm-bMvrkQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/r4pm-bMvrkQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apna College",
+                "tags": [
+                    "C++",
+                    "C++ coding",
+                    "C++ full course",
+                    "C++ placement course",
+                    "how to code",
+                    "programming",
+                    "college placement course",
+                    "C++ language",
+                    "java",
+                    "java language",
+                    "java full course",
+                    "java placement",
+                    "java code",
+                    "java coding"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "DSA + Development  + CP  got him Dream Package! at Phonepe | Interview lessons",
+                    "description": "Want to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/"
+                },
+                "defaultAudioLanguage": "hi"
+            },
+            "statistics": {
+                "viewCount": "73586",
+                "likeCount": "2380",
+                "favoriteCount": "0",
+                "commentCount": "199"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "wm_ClpZUbIETwMDr719oLuWhjZk",
+            "id": "mstrQbmKrFk",
+            "snippet": {
+                "publishedAt": "2025-03-16T14:45:34Z",
+                "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
+                "title": "How this student cracked Internship at Salesforce ? Interview lessons with Shradha Khapra Ma'am",
+                "description": "Save time & study only what's needed for Placements \ud83d\ude80\nNew Sigma 7.0 : https://www.apnacollege.in/course/sigma-7\n\nBatch will start from 18th March , 2025\ud83e\udeb4\n--------------------------------------------------------\nPS : for those who asked, EMI option is available on payment page. \nLink for International students : https://buy.stripe.com/14kaEQ9be3FsaB2bIW\n\nEligibility for Sigma 7.0 \n- B.Tech students preparing for Tech Placement/Internships. \n- start as early as possible, first 2 years are most important. \n- M.Tech/MCA/BCA who are preparing for Tech Placements/Internships\n\nClass Schedule : \n- Mentioned in video & on website. \n- Lectures will come on alternate days.\n- Lecture Timings : 8PM \n- Lecture duration : 1.5 - 2.0 Hour\n\nWant to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mstrQbmKrFk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mstrQbmKrFk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mstrQbmKrFk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/mstrQbmKrFk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/mstrQbmKrFk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apna College",
+                "tags": [
+                    "C++",
+                    "C++ coding",
+                    "C++ full course",
+                    "C++ placement course",
+                    "how to code",
+                    "programming",
+                    "college placement course",
+                    "C++ language",
+                    "java",
+                    "java language",
+                    "java full course",
+                    "java placement",
+                    "java code",
+                    "java coding"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "How this student cracked Internship at Salesforce ? Interview lessons with Shradha Khapra Ma'am",
+                    "description": "Save time & study only what's needed for Placements \ud83d\ude80\nNew Sigma 7.0 : https://www.apnacollege.in/course/sigma-7\n\nBatch will start from 18th March , 2025\ud83e\udeb4\n--------------------------------------------------------\nPS : for those who asked, EMI option is available on payment page. \nLink for International students : https://buy.stripe.com/14kaEQ9be3FsaB2bIW\n\nEligibility for Sigma 7.0 \n- B.Tech students preparing for Tech Placement/Internships. \n- start as early as possible, first 2 years are most important. \n- M.Tech/MCA/BCA who are preparing for Tech Placements/Internships\n\nClass Schedule : \n- Mentioned in video & on website. \n- Lectures will come on alternate days.\n- Lecture Timings : 8PM \n- Lecture duration : 1.5 - 2.0 Hour\n\nWant to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/"
+                },
+                "defaultAudioLanguage": "hi"
+            },
+            "statistics": {
+                "viewCount": "99214",
+                "likeCount": "3359",
+                "favoriteCount": "0",
+                "commentCount": "176"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "B6kc6NTOROfZCBtRf28PeOmAX6Y",
+            "id": "zXb8QPRNPaM",
+            "snippet": {
+                "publishedAt": "2025-03-15T11:23:57Z",
+                "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
+                "title": "Cracks Top Package at Salesforce | selection process",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zXb8QPRNPaM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zXb8QPRNPaM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zXb8QPRNPaM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/zXb8QPRNPaM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/zXb8QPRNPaM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apna College",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Cracks Top Package at Salesforce | selection process",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "hi"
+            },
+            "statistics": {
+                "viewCount": "198375",
+                "likeCount": "9578",
+                "favoriteCount": "0",
+                "commentCount": "118"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "XiWL-o83IqfsmyVn9YXIxf9Ww-0",
+            "id": "rDTt8DcUtOY",
+            "snippet": {
+                "publishedAt": "2025-03-10T15:52:33Z",
+                "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
+                "title": "How he got Off-Campus referrals from Top Companies ? Must watch \ud83d\ude80 : Interview lessons",
+                "description": "Save time & study only what's needed for Placements \ud83d\ude80\nNew Sigma 7.0 Link : https://www.apnacollege.in/course/sigma-7\n\nLink for International students : https://buy.stripe.com/14kaEQ9be3FsaB2bIW\nclasses starting from 18th March\n--------------------------------------------------------\n\nEligibility for Sigma 7.0 \n- B.Tech students preparing for Tech Placement/Internships. \n- start as early as possible, first 2 years are most important. \n- M.Tech/MCA/BCA who are preparing for Tech Placements/Internships\n\nClass Schedule : \n- Mentioned in video & on website. \n- Lectures will come on alternate days.\n- Lecture Timings : 8PM \n- Lecture duration : 1.5 - 2.0 Hour\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rDTt8DcUtOY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rDTt8DcUtOY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rDTt8DcUtOY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/rDTt8DcUtOY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/rDTt8DcUtOY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apna College",
+                "tags": [
+                    "C++",
+                    "C++ coding",
+                    "C++ full course",
+                    "C++ placement course",
+                    "how to code",
+                    "programming",
+                    "college placement course",
+                    "C++ language",
+                    "java",
+                    "java language",
+                    "java full course",
+                    "java placement",
+                    "java code",
+                    "java coding"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "How he got Off-Campus referrals from Top Companies ? Must watch \ud83d\ude80 : Interview lessons",
+                    "description": "Save time & study only what's needed for Placements \ud83d\ude80\nNew Sigma 7.0 Link : https://www.apnacollege.in/course/sigma-7\n\nLink for International students : https://buy.stripe.com/14kaEQ9be3FsaB2bIW\nclasses starting from 18th March\n--------------------------------------------------------\n\nEligibility for Sigma 7.0 \n- B.Tech students preparing for Tech Placement/Internships. \n- start as early as possible, first 2 years are most important. \n- M.Tech/MCA/BCA who are preparing for Tech Placements/Internships\n\nClass Schedule : \n- Mentioned in video & on website. \n- Lectures will come on alternate days.\n- Lecture Timings : 8PM \n- Lecture duration : 1.5 - 2.0 Hour\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/"
+                },
+                "defaultAudioLanguage": "hi"
+            },
+            "statistics": {
+                "viewCount": "58869",
+                "likeCount": "2122",
+                "favoriteCount": "0",
+                "commentCount": "166"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "8stszc_ZKVNJImhiFSIOGhLZE24",
+            "id": "neIIouFAq2s",
+            "snippet": {
+                "publishedAt": "2025-03-02T16:24:41Z",
+                "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
+                "title": "Tech Placement & Internship preparation QnA for 2025 | New Sigma 7.0 QnA",
+                "description": "Save time & study only what's needed for Placements \ud83d\ude80\nNew Sigma 7.0 Link : https://www.apnacollege.in/course/sigma-7\n\nBatch will start from 18th March , 2025\ud83e\udeb4\n--------------------------------------------------------\nPS : for those who asked, EMI option is available on payment page. \nSigma 7.0 Link for International students : https://buy.stripe.com/14kaEQ9be3FsaB2bIW\n\nEligibility for Sigma 7.0 \n- B.Tech students preparing for Tech Placement/Internships. \n- start as early as possible, first 2 years are most important. \n- M.Tech/MCA/BCA who are preparing for Tech Placements/Internships\n\nClass Schedule : \n- Mentioned in video & on website. \n- Lectures will come on alternate days.\n- Lecture Timings : 8PM \n- Lecture duration : 1.5 - 2.0 Hour\n\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/\n\nSmall Edit : The student shown for DE Shaw in video, was actually selected in Amazon.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/neIIouFAq2s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/neIIouFAq2s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/neIIouFAq2s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/neIIouFAq2s/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/neIIouFAq2s/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apna College",
+                "tags": [
+                    "C++",
+                    "C++ coding",
+                    "C++ full course",
+                    "C++ placement course",
+                    "how to code",
+                    "programming",
+                    "college placement course",
+                    "C++ language",
+                    "java",
+                    "java language",
+                    "java full course",
+                    "java placement",
+                    "java code",
+                    "java coding"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Tech Placement & Internship preparation QnA for 2025 | New Sigma 7.0 QnA",
+                    "description": "Save time & study only what's needed for Placements \ud83d\ude80\nNew Sigma 7.0 Link : https://www.apnacollege.in/course/sigma-7\n\nBatch will start from 18th March , 2025\ud83e\udeb4\n--------------------------------------------------------\nPS : for those who asked, EMI option is available on payment page. \nSigma 7.0 Link for International students : https://buy.stripe.com/14kaEQ9be3FsaB2bIW\n\nEligibility for Sigma 7.0 \n- B.Tech students preparing for Tech Placement/Internships. \n- start as early as possible, first 2 years are most important. \n- M.Tech/MCA/BCA who are preparing for Tech Placements/Internships\n\nClass Schedule : \n- Mentioned in video & on website. \n- Lectures will come on alternate days.\n- Lecture Timings : 8PM \n- Lecture duration : 1.5 - 2.0 Hour\n\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/\n\nSmall Edit : The student shown for DE Shaw in video, was actually selected in Amazon."
+                },
+                "defaultAudioLanguage": "hi"
+            },
+            "statistics": {
+                "viewCount": "78815",
+                "likeCount": "2492",
+                "favoriteCount": "0",
+                "commentCount": "540"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "Zu8_rdfj_rR2Ti2c0r6qPrqvUmg",
+            "id": "Srh0GVv2cAM",
+            "snippet": {
+                "publishedAt": "2025-02-28T15:59:13Z",
+                "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
+                "title": "Complete Placement Preparation: Java/C++ DSA + Full Web Development + Aptitude | New Sigma 7.0 \ud83d\ude80",
+                "description": "Save time & study only what's needed for Placements \ud83d\ude80\nNew Sigma 7.0 Link : https://www.apnacollege.in/course/sigma-7\n\nBatch will start from 18th March , 2025\ud83e\udeb4\n--------------------------------------------------------\nPS : for those who asked, EMI option is available on payment page. \nLink for International students : https://buy.stripe.com/14kaEQ9be3FsaB2bIW\n\nEligibility for Sigma 7.0 \n- B.Tech students preparing for Tech Placement/Internships. \n- start as early as possible, first 2 years are most important. \n- M.Tech/MCA/BCA who are preparing for Tech Placements/Internships\n\nClass Schedule : \n- Mentioned in video & on website. \n- Lectures will come on alternate days.\n- Lecture Timings : 8PM \n- Lecture duration : 1.5 - 2.0 Hour\n\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/\n\nSmall Edit : The student shown for DE Shaw in video, was actually selected in Amazon.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Srh0GVv2cAM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Srh0GVv2cAM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Srh0GVv2cAM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Srh0GVv2cAM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Srh0GVv2cAM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apna College",
+                "tags": [
+                    "C++",
+                    "C++ coding",
+                    "C++ full course",
+                    "C++ placement course",
+                    "how to code",
+                    "programming",
+                    "college placement course",
+                    "C++ language",
+                    "java",
+                    "java language",
+                    "java full course",
+                    "java placement",
+                    "java code",
+                    "java coding"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Complete Placement Preparation: Java/C++ DSA + Full Web Development + Aptitude | New Sigma 7.0 \ud83d\ude80",
+                    "description": "Save time & study only what's needed for Placements \ud83d\ude80\nNew Sigma 7.0 Link : https://www.apnacollege.in/course/sigma-7\n\nBatch will start from 18th March , 2025\ud83e\udeb4\n--------------------------------------------------------\nPS : for those who asked, EMI option is available on payment page. \nLink for International students : https://buy.stripe.com/14kaEQ9be3FsaB2bIW\n\nEligibility for Sigma 7.0 \n- B.Tech students preparing for Tech Placement/Internships. \n- start as early as possible, first 2 years are most important. \n- M.Tech/MCA/BCA who are preparing for Tech Placements/Internships\n\nClass Schedule : \n- Mentioned in video & on website. \n- Lectures will come on alternate days.\n- Lecture Timings : 8PM \n- Lecture duration : 1.5 - 2.0 Hour\n\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/\n\nSmall Edit : The student shown for DE Shaw in video, was actually selected in Amazon."
+                },
+                "defaultAudioLanguage": "hi"
+            },
+            "statistics": {
+                "viewCount": "323995",
+                "likeCount": "8034",
+                "favoriteCount": "0",
+                "commentCount": "1235"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "MnCrkNB3pVJemY3AbK8DPHt4x5A",
+            "id": "xk07LyyAKYU",
+            "snippet": {
+                "publishedAt": "2025-02-26T16:31:57Z",
+                "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
+                "title": "Will AI replace Software Engineers ? Raw & Honest Opinion",
+                "description": "Want to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xk07LyyAKYU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xk07LyyAKYU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xk07LyyAKYU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/xk07LyyAKYU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/xk07LyyAKYU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apna College",
+                "tags": [
+                    "C++",
+                    "C++ coding",
+                    "C++ full course",
+                    "C++ placement course",
+                    "how to code",
+                    "programming",
+                    "college placement course",
+                    "C++ language",
+                    "java",
+                    "java language",
+                    "java full course",
+                    "java placement",
+                    "java code",
+                    "java coding"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Will AI replace Software Engineers ? Raw & Honest Opinion",
+                    "description": "Want to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/"
+                },
+                "defaultAudioLanguage": "hi"
+            },
+            "statistics": {
+                "viewCount": "496396",
+                "likeCount": "18856",
+                "favoriteCount": "0",
+                "commentCount": "1278"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "yM-WWa0BuscFm4Hu3PuOa_ResGI",
+            "id": "exmSJpJvIPs",
+            "snippet": {
+                "publishedAt": "2025-02-17T15:52:27Z",
+                "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
+                "title": "Docker Tutorial for beginners - Complete One Shot",
+                "description": "PDF Link for all Docker Commands : https://www.apnacollege.in/notes\nLink for Node.js App Code used for Demo : https://github.com/shradha-khapra/docker-testapp\n\nWant to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/exmSJpJvIPs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/exmSJpJvIPs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/exmSJpJvIPs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/exmSJpJvIPs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/exmSJpJvIPs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apna College",
+                "tags": [
+                    "C++",
+                    "C++ coding",
+                    "C++ full course",
+                    "C++ placement course",
+                    "how to code",
+                    "programming",
+                    "college placement course",
+                    "C++ language",
+                    "java",
+                    "java language",
+                    "java full course",
+                    "java placement",
+                    "java code",
+                    "java coding"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Docker Tutorial for beginners - Complete One Shot",
+                    "description": "PDF Link for all Docker Commands : https://www.apnacollege.in/notes\nLink for Node.js App Code used for Demo : https://github.com/shradha-khapra/docker-testapp\n\nWant to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/"
+                }
+            },
+            "statistics": {
+                "viewCount": "356342",
+                "likeCount": "9355",
+                "favoriteCount": "0",
+                "commentCount": "672"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "_gS9tzNapi0SuKop33_6WR_9f_M",
+            "id": "kAFGklnm4g4",
+            "snippet": {
+                "publishedAt": "2025-02-13T16:33:54Z",
+                "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
+                "title": "How to prepare for Placements & Internships as a FRESHER in 2025 ?",
+                "description": "Want to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kAFGklnm4g4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kAFGklnm4g4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kAFGklnm4g4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/kAFGklnm4g4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/kAFGklnm4g4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apna College",
+                "tags": [
+                    "C++",
+                    "C++ coding",
+                    "C++ full course",
+                    "C++ placement course",
+                    "how to code",
+                    "programming",
+                    "college placement course",
+                    "C++ language",
+                    "java",
+                    "java language",
+                    "java full course",
+                    "java placement",
+                    "java code",
+                    "java coding"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "How to prepare for Placements & Internships as a FRESHER in 2025 ?",
+                    "description": "Want to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/"
+                }
+            },
+            "statistics": {
+                "viewCount": "108933",
+                "likeCount": "4826",
+                "favoriteCount": "0",
+                "commentCount": "149"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "RkGBNNk8gZUL3PDtkt4XfKdX2AY",
+            "id": "YzxnxCM7q5A",
+            "snippet": {
+                "publishedAt": "2025-02-10T17:12:57Z",
+                "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
+                "title": "How this Core branch student with just 6.5 CGPA got 27 lakhs Tech Placement at JusPay?",
+                "description": "Want to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YzxnxCM7q5A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YzxnxCM7q5A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YzxnxCM7q5A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/YzxnxCM7q5A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/YzxnxCM7q5A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apna College",
+                "tags": [
+                    "C++",
+                    "C++ coding",
+                    "C++ full course",
+                    "C++ placement course",
+                    "how to code",
+                    "programming",
+                    "college placement course",
+                    "C++ language",
+                    "java",
+                    "java language",
+                    "java full course",
+                    "java placement",
+                    "java code",
+                    "java coding"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "How this Core branch student with just 6.5 CGPA got 27 lakhs Tech Placement at JusPay?",
+                    "description": "Want to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/"
+                },
+                "defaultAudioLanguage": "hi"
+            },
+            "statistics": {
+                "viewCount": "97872",
+                "likeCount": "3476",
+                "favoriteCount": "0",
+                "commentCount": "210"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "he0iU7WYhrowO8vNCOR5_vgoVWU",
+            "id": "LVtnc10xz-o",
+            "snippet": {
+                "publishedAt": "2025-02-10T14:54:01Z",
+                "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
+                "title": "Shradha Khapra Ma'am invited their selected students for Interviews\ud83e\udeb4",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LVtnc10xz-o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LVtnc10xz-o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LVtnc10xz-o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/LVtnc10xz-o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/LVtnc10xz-o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apna College",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Shradha Khapra Ma'am invited their selected students for Interviews\ud83e\udeb4",
+                    "description": ""
+                }
+            },
+            "statistics": {
+                "viewCount": "188317",
+                "likeCount": "9846",
+                "favoriteCount": "0",
+                "commentCount": "93"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "mkQJiPdd4dT_FkaEqZYzztVt9O4",
+            "id": "Yxy1sM7QOeU",
+            "snippet": {
+                "publishedAt": "2025-02-04T16:39:33Z",
+                "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
+                "title": "IIT Guwahati x Shradha Khapra Ma'am |  One Big Goal - Think Long term",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Yxy1sM7QOeU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Yxy1sM7QOeU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Yxy1sM7QOeU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Yxy1sM7QOeU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Yxy1sM7QOeU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apna College",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "IIT Guwahati x Shradha Khapra Ma'am |  One Big Goal - Think Long term",
+                    "description": ""
+                }
+            },
+            "statistics": {
+                "viewCount": "370938",
+                "likeCount": "26808",
+                "favoriteCount": "0",
+                "commentCount": "109"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "x_e1j-6naD_0uf2aobJhtbabVKU",
+            "id": "Lp-F-NLc41g",
+            "snippet": {
+                "publishedAt": "2025-02-02T16:29:34Z",
+                "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
+                "title": "How this student cracked DE Shaw & Co ? Interview lessons with Shradha Khapra Ma'am",
+                "description": "Want to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Lp-F-NLc41g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Lp-F-NLc41g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Lp-F-NLc41g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Lp-F-NLc41g/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Lp-F-NLc41g/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apna College",
+                "tags": [
+                    "C++",
+                    "C++ coding",
+                    "C++ full course",
+                    "C++ placement course",
+                    "how to code",
+                    "programming",
+                    "college placement course",
+                    "C++ language",
+                    "java",
+                    "java language",
+                    "java full course",
+                    "java placement",
+                    "java code",
+                    "java coding"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "How this student cracked DE Shaw & Co ? Interview lessons with Shradha Khapra Ma'am",
+                    "description": "Want to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/"
+                }
+            },
+            "statistics": {
+                "viewCount": "70928",
+                "likeCount": "2393",
+                "favoriteCount": "0",
+                "commentCount": "140"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "zWaSqHxigf_hNTyobeMess0NXp0",
+            "id": "fWfJaiswZbE",
+            "snippet": {
+                "publishedAt": "2025-01-22T12:25:12Z",
+                "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
+                "title": "Amazon Software Intern : Complete Interview lesson available on Apna College",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fWfJaiswZbE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fWfJaiswZbE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fWfJaiswZbE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/fWfJaiswZbE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/fWfJaiswZbE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apna College",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Amazon Software Intern : Complete Interview lesson available on Apna College",
+                    "description": ""
+                }
+            },
+            "statistics": {
+                "viewCount": "403879",
+                "likeCount": "21332",
+                "favoriteCount": "0",
+                "commentCount": "75"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "dZAIvSAE8uHvo424QqoXXdRGzDo",
+            "id": "rVTmdTmAujs",
+            "snippet": {
+                "publishedAt": "2025-01-20T16:25:41Z",
+                "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
+                "title": "Recursion (Basics to Advanced) & Backtracking for Placements",
+                "description": "Want to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rVTmdTmAujs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rVTmdTmAujs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rVTmdTmAujs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/rVTmdTmAujs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/rVTmdTmAujs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apna College",
+                "tags": [
+                    "C++",
+                    "C++ coding",
+                    "C++ full course",
+                    "C++ placement course",
+                    "how to code",
+                    "programming",
+                    "college placement course",
+                    "C++ language",
+                    "java",
+                    "java language",
+                    "java full course",
+                    "java placement",
+                    "java code",
+                    "java coding"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Recursion (Basics to Advanced) & Backtracking for Placements",
+                    "description": "Want to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/"
+                }
+            },
+            "statistics": {
+                "viewCount": "78032",
+                "likeCount": "2213",
+                "favoriteCount": "0",
+                "commentCount": "195"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "kKOzy41R8t-1sfU2wEgQMtdrQa0",
+            "id": "c5hkSx15ipM",
+            "snippet": {
+                "publishedAt": "2025-01-20T09:33:16Z",
+                "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
+                "title": "Google Intern : Importance of Projects",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/c5hkSx15ipM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/c5hkSx15ipM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/c5hkSx15ipM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/c5hkSx15ipM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/c5hkSx15ipM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apna College",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Google Intern : Importance of Projects",
+                    "description": ""
+                }
+            },
+            "statistics": {
+                "viewCount": "166232",
+                "likeCount": "10387",
+                "favoriteCount": "0",
+                "commentCount": "30"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "c6skBppOYX1RfPW0lFi3v-odte8",
+            "id": "7hnYbygBNao",
+            "snippet": {
+                "publishedAt": "2025-01-13T16:17:27Z",
+                "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
+                "title": "Placement & Internship Strategy for last 7-8 months | August 2025 onwards season",
+                "description": "Our Latest 2025 Placement Batch : https://linktr.ee/apnacollege.in\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7hnYbygBNao/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7hnYbygBNao/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7hnYbygBNao/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/7hnYbygBNao/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/7hnYbygBNao/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apna College",
+                "tags": [
+                    "C++",
+                    "C++ coding",
+                    "C++ full course",
+                    "C++ placement course",
+                    "how to code",
+                    "programming",
+                    "college placement course",
+                    "C++ language",
+                    "java",
+                    "java language",
+                    "java full course",
+                    "java placement",
+                    "java code",
+                    "java coding"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Placement & Internship Strategy for last 7-8 months | August 2025 onwards season",
+                    "description": "Our Latest 2025 Placement Batch : https://linktr.ee/apnacollege.in\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/"
+                }
+            },
+            "statistics": {
+                "viewCount": "398788",
+                "likeCount": "21125",
+                "favoriteCount": "0",
+                "commentCount": "924"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "sN_N69I35CY-PkjiVH6me_GtZkY",
+            "id": "pc8WLGsHois",
+            "snippet": {
+                "publishedAt": "2025-01-11T14:43:49Z",
+                "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
+                "title": "Google Interview process. Shivam is our Alpha student who cracked Google.",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pc8WLGsHois/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pc8WLGsHois/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pc8WLGsHois/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pc8WLGsHois/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/pc8WLGsHois/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apna College",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Google Interview process. Shivam is our Alpha student who cracked Google.",
+                    "description": ""
+                }
+            },
+            "statistics": {
+                "viewCount": "238890",
+                "likeCount": "14541",
+                "favoriteCount": "0",
+                "commentCount": "52"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "ox2JQVm3UcEl7T-2i_fHiMENBZ4",
+            "id": "sYxN2x2aV3c",
+            "snippet": {
+                "publishedAt": "2025-01-10T05:29:34Z",
+                "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
+                "title": "Naman is our student who cracked Goldman Sachs. Complete Interview is available on Apna College",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sYxN2x2aV3c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sYxN2x2aV3c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sYxN2x2aV3c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/sYxN2x2aV3c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/sYxN2x2aV3c/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apna College",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Naman is our student who cracked Goldman Sachs. Complete Interview is available on Apna College",
+                    "description": ""
+                }
+            },
+            "statistics": {
+                "viewCount": "746597",
+                "likeCount": "40036",
+                "favoriteCount": "0",
+                "commentCount": "94"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "uCg8oCMMvqq7vF6gJ4AhrLzLJLQ",
+            "id": "rWpeST5TfVw",
+            "snippet": {
+                "publishedAt": "2025-01-09T02:27:14Z",
+                "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
+                "title": "Naman is our student who cracked Goldman Sachs. Complete Interview lessons on Apna College channel.",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rWpeST5TfVw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rWpeST5TfVw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rWpeST5TfVw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/rWpeST5TfVw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/rWpeST5TfVw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apna College",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Naman is our student who cracked Goldman Sachs. Complete Interview lessons on Apna College channel.",
+                    "description": ""
+                }
+            },
+            "statistics": {
+                "viewCount": "1387650",
+                "likeCount": "66248",
+                "favoriteCount": "0",
+                "commentCount": "132"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "Eupv3VntgCpUFzHLC3rQYPtHm5s",
+            "id": "vscu3i1_yxs",
+            "snippet": {
+                "publishedAt": "2025-01-08T15:56:07Z",
+                "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
+                "title": "How this student got Amazon via Off-Campus Hackathon | from Tier 2/3 | Interview lessons with Ma'am",
+                "description": "Want to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vscu3i1_yxs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vscu3i1_yxs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vscu3i1_yxs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/vscu3i1_yxs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/vscu3i1_yxs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apna College",
+                "tags": [
+                    "C++",
+                    "C++ coding",
+                    "C++ full course",
+                    "C++ placement course",
+                    "how to code",
+                    "programming",
+                    "college placement course",
+                    "C++ language",
+                    "java",
+                    "java language",
+                    "java full course",
+                    "java placement",
+                    "java code",
+                    "java coding"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "How this student got Amazon via Off-Campus Hackathon | from Tier 2/3 | Interview lessons with Ma'am",
+                    "description": "Want to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/"
+                }
+            },
+            "statistics": {
+                "viewCount": "125367",
+                "likeCount": "4545",
+                "favoriteCount": "0",
+                "commentCount": "243"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "mjVgSlMa9iEls7adgM0cEtVYZjI",
+            "id": "TmFHuAxqF5k",
+            "snippet": {
+                "publishedAt": "2025-01-04T14:43:19Z",
+                "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
+                "title": "How he cracked Off-Campus Goldman Sachs? Interview lessons with Shradha Ma'am",
+                "description": "Save time & study only what's needed for Placements\n\ud83d\udcccNew Sigma 6.0 Link : https://www.apnacollege.in/course/sigma-6\n\ud83d\udcccNew Delta 6.0 Link : https://www.apnacollege.in/course/delta-6\n\n---------------------------------------------------------\nLink for International students : https://buy.stripe.com/14kaEQ9be3FsaB2bIW\n\nEligibility for Sigma 6.0 \n- B.Tech students preparing for Tech Placement/Internships. \n- start as early as possible, first 2 years are most important. \n- M.Tech/MCA/BCA who are preparing for Tech Placements/Internships\n\nClass Schedule : \n- Mentioned in video & on website. \n- Recorded Lectures will come on alternate days.\n- Lecture Timings : 8PM \n- Lecture duration : 1 - 1.5 Hour\n\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TmFHuAxqF5k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TmFHuAxqF5k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TmFHuAxqF5k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/TmFHuAxqF5k/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/TmFHuAxqF5k/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apna College",
+                "tags": [
+                    "C++",
+                    "C++ coding",
+                    "C++ full course",
+                    "C++ placement course",
+                    "how to code",
+                    "programming",
+                    "college placement course",
+                    "C++ language",
+                    "java",
+                    "java language",
+                    "java full course",
+                    "java placement",
+                    "java code",
+                    "java coding"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "How he cracked Off-Campus Goldman Sachs? Interview lessons with Shradha Ma'am",
+                    "description": "Save time & study only what's needed for Placements\n\ud83d\udcccNew Sigma 6.0 Link : https://www.apnacollege.in/course/sigma-6\n\ud83d\udcccNew Delta 6.0 Link : https://www.apnacollege.in/course/delta-6\n\n---------------------------------------------------------\nLink for International students : https://buy.stripe.com/14kaEQ9be3FsaB2bIW\n\nEligibility for Sigma 6.0 \n- B.Tech students preparing for Tech Placement/Internships. \n- start as early as possible, first 2 years are most important. \n- M.Tech/MCA/BCA who are preparing for Tech Placements/Internships\n\nClass Schedule : \n- Mentioned in video & on website. \n- Recorded Lectures will come on alternate days.\n- Lecture Timings : 8PM \n- Lecture duration : 1 - 1.5 Hour\n\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/"
+                }
+            },
+            "statistics": {
+                "viewCount": "117562",
+                "likeCount": "4315",
+                "favoriteCount": "0",
+                "commentCount": "243"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "XO1SxiHlI8zGlQeBeOyIVLg3eCU",
+            "id": "SycSR-NuDF0",
+            "snippet": {
+                "publishedAt": "2024-12-31T16:29:20Z",
+                "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
+                "title": "Complete Full Stack Web Development Preparation : MERN Stack + 6 Major Projects | New Delta 6.0",
+                "description": "Save time & study only what's needed for Placements\nNew Delta 6.0 Batch : https://www.apnacollege.in/course/delta-6\n\n---------------------------------------------------------\nPS : for those who asked, EMI option is available on payment page. \n\n\nEligibility for Delta 6.0\n- B.Tech students preparing for Tech Placement/Internships. \n- start as early as possible, first 2 years are most important. \n- M.Tech/MCA/BCA who are preparing for Tech Placements/Internships\n\nClass Schedule : \n- Mentioned in video & on website. \n- Lectures will come on alternate days.\n- Lecture Timings : 8PM \n- Lecture duration : 1 - 1.5 Hour\n\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SycSR-NuDF0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SycSR-NuDF0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SycSR-NuDF0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/SycSR-NuDF0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/SycSR-NuDF0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apna College",
+                "tags": [
+                    "C++",
+                    "C++ coding",
+                    "C++ full course",
+                    "C++ placement course",
+                    "how to code",
+                    "programming",
+                    "college placement course",
+                    "C++ language",
+                    "java",
+                    "java language",
+                    "java full course",
+                    "java placement",
+                    "java code",
+                    "java coding"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Complete Full Stack Web Development Preparation : MERN Stack + 6 Major Projects | New Delta 6.0",
+                    "description": "Save time & study only what's needed for Placements\nNew Delta 6.0 Batch : https://www.apnacollege.in/course/delta-6\n\n---------------------------------------------------------\nPS : for those who asked, EMI option is available on payment page. \n\n\nEligibility for Delta 6.0\n- B.Tech students preparing for Tech Placement/Internships. \n- start as early as possible, first 2 years are most important. \n- M.Tech/MCA/BCA who are preparing for Tech Placements/Internships\n\nClass Schedule : \n- Mentioned in video & on website. \n- Lectures will come on alternate days.\n- Lecture Timings : 8PM \n- Lecture duration : 1 - 1.5 Hour\n\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/"
+                }
+            },
+            "statistics": {
+                "viewCount": "250864",
+                "likeCount": "9124",
+                "favoriteCount": "0",
+                "commentCount": "1266"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "6lnFZwj3Stttl84bZ1sHgMBv5i8",
+            "id": "IOt3kQP93SY",
+            "snippet": {
+                "publishedAt": "2024-12-26T16:42:08Z",
+                "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
+                "title": "How this student got double Internship offers at Microsoft & JP Morgan - Interview lessons",
+                "description": "Save time & study only what's needed for Placements\nNew Sigma 6.0 Link : https://www.apnacollege.in/course/sigma-6\nstudent discount exists till 28th Dec 9:00PM\n\n---------------------------------------------------------\nPS : for those who asked, EMI option is available on payment page. \nLink for International students : https://buy.stripe.com/14kaEQ9be3FsaB2bIW\n\nEligibility for Sigma 6.0 \n- B.Tech students preparing for Tech Placement/Internships. \n- start as early as possible, first 2 years are most important. \n- M.Tech/MCA/BCA who are preparing for Tech Placements/Internships\n\nClass Schedule : \n- Mentioned in video & on website. \n- Lectures will come on alternate days.\n- Lecture Timings : 8PM \n- Lecture duration : 1 - 1.5 Hour\n\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IOt3kQP93SY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IOt3kQP93SY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IOt3kQP93SY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/IOt3kQP93SY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/IOt3kQP93SY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apna College",
+                "tags": [
+                    "C++",
+                    "C++ coding",
+                    "C++ full course",
+                    "C++ placement course",
+                    "how to code",
+                    "programming",
+                    "college placement course",
+                    "C++ language",
+                    "java",
+                    "java language",
+                    "java full course",
+                    "java placement",
+                    "java code",
+                    "java coding"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "How this student got double Internship offers at Microsoft & JP Morgan - Interview lessons",
+                    "description": "Save time & study only what's needed for Placements\nNew Sigma 6.0 Link : https://www.apnacollege.in/course/sigma-6\nstudent discount exists till 28th Dec 9:00PM\n\n---------------------------------------------------------\nPS : for those who asked, EMI option is available on payment page. \nLink for International students : https://buy.stripe.com/14kaEQ9be3FsaB2bIW\n\nEligibility for Sigma 6.0 \n- B.Tech students preparing for Tech Placement/Internships. \n- start as early as possible, first 2 years are most important. \n- M.Tech/MCA/BCA who are preparing for Tech Placements/Internships\n\nClass Schedule : \n- Mentioned in video & on website. \n- Lectures will come on alternate days.\n- Lecture Timings : 8PM \n- Lecture duration : 1 - 1.5 Hour\n\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/"
+                }
+            },
+            "statistics": {
+                "viewCount": "190995",
+                "likeCount": "7028",
+                "favoriteCount": "0",
+                "commentCount": "385"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "w95ax6och6QI0Csjc_PvRlzJ2LY",
+            "id": "nkF5n0bOzTA",
+            "snippet": {
+                "publishedAt": "2024-12-21T15:28:28Z",
+                "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
+                "title": "Complete Placement Preparation : Full Stack Web Development + Java DSA + Aptitude | New Sigma 6.0 \ud83d\ude80",
+                "description": "Save time & study only what's needed for Placements\nNew Sigma 6.0 Link : https://www.apnacollege.in/course/sigma-6\n\n---------------------------------------------------------\nPS : for those who asked, EMI option is available on payment page. \nLink for International students : https://buy.stripe.com/14kaEQ9be3FsaB2bIW\n\nEligibility for Sigma 6.0 \n- B.Tech students preparing for Tech Placement/Internships. \n- start as early as possible, first 2 years are most important. \n- M.Tech/MCA/BCA who are preparing for Tech Placements/Internships\n\nClass Schedule : \n- Mentioned in video & on website. \n- Lectures will come on alternate days.\n- Lecture Timings : 8PM \n- Lecture duration : 1 - 1.5 Hour\n\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nkF5n0bOzTA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nkF5n0bOzTA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nkF5n0bOzTA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/nkF5n0bOzTA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/nkF5n0bOzTA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apna College",
+                "tags": [
+                    "C++",
+                    "C++ coding",
+                    "C++ full course",
+                    "C++ placement course",
+                    "how to code",
+                    "programming",
+                    "college placement course",
+                    "C++ language",
+                    "java",
+                    "java language",
+                    "java full course",
+                    "java placement",
+                    "java code",
+                    "java coding"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Complete Placement Preparation : Full Stack Web Development + Java DSA + Aptitude | New Sigma 6.0 \ud83d\ude80",
+                    "description": "Save time & study only what's needed for Placements\nNew Sigma 6.0 Link : https://www.apnacollege.in/course/sigma-6\n\n---------------------------------------------------------\nPS : for those who asked, EMI option is available on payment page. \nLink for International students : https://buy.stripe.com/14kaEQ9be3FsaB2bIW\n\nEligibility for Sigma 6.0 \n- B.Tech students preparing for Tech Placement/Internships. \n- start as early as possible, first 2 years are most important. \n- M.Tech/MCA/BCA who are preparing for Tech Placements/Internships\n\nClass Schedule : \n- Mentioned in video & on website. \n- Lectures will come on alternate days.\n- Lecture Timings : 8PM \n- Lecture duration : 1 - 1.5 Hour\n\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/"
+                }
+            },
+            "statistics": {
+                "viewCount": "403644",
+                "likeCount": "9475",
+                "favoriteCount": "0",
+                "commentCount": "1445"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "jxDf0Xq0MRxY23lO5FU-1vzuP9M",
+            "id": "aWmUVINkzS8",
+            "snippet": {
+                "publishedAt": "2024-12-17T16:44:48Z",
+                "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
+                "title": "Watch this before you start Coding! 5 Tips for Coders",
+                "description": "Want to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aWmUVINkzS8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aWmUVINkzS8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aWmUVINkzS8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/aWmUVINkzS8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/aWmUVINkzS8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apna College",
+                "tags": [
+                    "C++",
+                    "C++ coding",
+                    "C++ full course",
+                    "C++ placement course",
+                    "how to code",
+                    "programming",
+                    "college placement course",
+                    "C++ language",
+                    "java",
+                    "java language",
+                    "java full course",
+                    "java placement",
+                    "java code",
+                    "java coding"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Watch this before you start Coding! 5 Tips for Coders",
+                    "description": "Want to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/"
+                }
+            },
+            "statistics": {
+                "viewCount": "638106",
+                "likeCount": "29693",
+                "favoriteCount": "0",
+                "commentCount": "1265"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "okZg6sS1oLLfMFgZYTjVFWIK1KQ",
+            "id": "SBQfXK7q5K4",
+            "snippet": {
+                "publishedAt": "2024-12-16T16:21:35Z",
+                "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
+                "title": "One Major update & reaching 1000M views",
+                "description": "All future lectures of DSA Series, i.e lecture 51 onwards will be uploaded on Shradha Khapra youtube channel. \n\ud83d\ude80Lecture 51 of DSA Series link : https://youtu.be/8MNB0Mba_Dc\n\n\ud83d\ude80DSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\nWant to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/\nShare your progress on Twitter : https://x.com/ShradhaKhapra_",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SBQfXK7q5K4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SBQfXK7q5K4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SBQfXK7q5K4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/SBQfXK7q5K4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/SBQfXK7q5K4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apna College",
+                "tags": [
+                    "C++",
+                    "C++ coding",
+                    "C++ full course",
+                    "C++ placement course",
+                    "how to code",
+                    "programming",
+                    "college placement course",
+                    "C++ language",
+                    "java",
+                    "java language",
+                    "java full course",
+                    "java placement",
+                    "java code",
+                    "java coding"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "One Major update & reaching 1000M views",
+                    "description": "All future lectures of DSA Series, i.e lecture 51 onwards will be uploaded on Shradha Khapra youtube channel. \n\ud83d\ude80Lecture 51 of DSA Series link : https://youtu.be/8MNB0Mba_Dc\n\n\ud83d\ude80DSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\nWant to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/\nShare your progress on Twitter : https://x.com/ShradhaKhapra_"
+                }
+            },
+            "statistics": {
+                "viewCount": "110020",
+                "likeCount": "5987",
+                "favoriteCount": "0",
+                "commentCount": "432"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "oyGEkrxL4rVV5s4nEapO04x6MXs",
+            "id": "cQDtOBTy7_Y",
+            "snippet": {
+                "publishedAt": "2024-12-15T16:15:32Z",
+                "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
+                "title": "Merge Sort Algorithm | Recursion & Backtracking",
+                "description": "Lecture 50 of DSA Placement Series \n\nCompany wise DSA Sheet Link : https://docs.google.com/spreadsheets/d/1mvlc8EYc3OVVU3X7NKoC0iZJr_45BL_pVxiJec0r94c/edit?usp=sharing\n\nWant to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\n\nTimestamps:\n\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cQDtOBTy7_Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cQDtOBTy7_Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cQDtOBTy7_Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/cQDtOBTy7_Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/cQDtOBTy7_Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apna College",
+                "tags": [
+                    "C++",
+                    "C++ coding",
+                    "C++ full course",
+                    "C++ placement course",
+                    "how to code",
+                    "programming",
+                    "college placement course",
+                    "C++ language",
+                    "java",
+                    "java language",
+                    "java full course",
+                    "java placement",
+                    "java code",
+                    "java coding"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Merge Sort Algorithm | Recursion & Backtracking",
+                    "description": "Lecture 50 of DSA Placement Series \n\nCompany wise DSA Sheet Link : https://docs.google.com/spreadsheets/d/1mvlc8EYc3OVVU3X7NKoC0iZJr_45BL_pVxiJec0r94c/edit?usp=sharing\n\nWant to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\n\nTimestamps:\n\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/"
+                }
+            },
+            "statistics": {
+                "viewCount": "105048",
+                "likeCount": "2331",
+                "favoriteCount": "0",
+                "commentCount": "136"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "0Tx0pb2XjGbenmvyZp8uh2_jSMU",
+            "id": "jkgZw2WEaqA",
+            "snippet": {
+                "publishedAt": "2024-12-12T15:24:26Z",
+                "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
+                "title": "Combination Sum Problem | Recursion & Backtracking",
+                "description": "Lecture 48 of DSA Placement Series \n\nCompany wise DSA Sheet Link : https://docs.google.com/spreadsheets/d/1mvlc8EYc3OVVU3X7NKoC0iZJr_45BL_pVxiJec0r94c/edit?usp=sharing\n\nWant to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\n\nTimestamps:\n00:20 Question\n01:55 Approach\n18:32 Code\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jkgZw2WEaqA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jkgZw2WEaqA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jkgZw2WEaqA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/jkgZw2WEaqA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/jkgZw2WEaqA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apna College",
+                "tags": [
+                    "C++",
+                    "C++ coding",
+                    "C++ full course",
+                    "C++ placement course",
+                    "how to code",
+                    "programming",
+                    "college placement course",
+                    "C++ language",
+                    "java",
+                    "java language",
+                    "java full course",
+                    "java placement",
+                    "java code",
+                    "java coding"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Combination Sum Problem | Recursion & Backtracking",
+                    "description": "Lecture 48 of DSA Placement Series \n\nCompany wise DSA Sheet Link : https://docs.google.com/spreadsheets/d/1mvlc8EYc3OVVU3X7NKoC0iZJr_45BL_pVxiJec0r94c/edit?usp=sharing\n\nWant to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\n\nTimestamps:\n00:20 Question\n01:55 Approach\n18:32 Code\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/"
+                }
+            },
+            "statistics": {
+                "viewCount": "33379",
+                "likeCount": "957",
+                "favoriteCount": "0",
+                "commentCount": "109"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "p03Rcbtx72106JISzlCFB00PjfI",
+            "id": "RRBF2YWXFtY",
+            "snippet": {
+                "publishedAt": "2024-12-10T16:37:58Z",
+                "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
+                "title": "DevOps Complete Guide for 2025",
+                "description": "All relevant lectures & video links : \n1. Complete Git & GitHub Lecture : https://www.youtube.com/watch?v=Ez8F0nW6S-w\n2. What is Docker ? : https://www.youtube.com/watch?v=H8Lyj2D_cWo\n3. What are Microservices ? : https://www.youtube.com/watch?v=7IFJb-uLEaI\n4. What is DevOps ? : https://www.youtube.com/watch?v=h7LDnVsNRVI\n5. Complete Python One Shot : https://www.youtube.com/watch?v=ERCMXc8x7mc&t=2507s\n\ud83d\ude80 DevOps 2025 Guide PDF : https://drive.google.com/file/d/1r87ZqG0ZiBJbuOLQO-15fDR0g6AlWMVe/view?usp=sharing\n\nWant to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\n#devops #development \n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RRBF2YWXFtY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RRBF2YWXFtY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RRBF2YWXFtY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/RRBF2YWXFtY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/RRBF2YWXFtY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apna College",
+                "tags": [
+                    "C++",
+                    "C++ coding",
+                    "C++ full course",
+                    "C++ placement course",
+                    "how to code",
+                    "programming",
+                    "college placement course",
+                    "C++ language",
+                    "java",
+                    "java language",
+                    "java full course",
+                    "java placement",
+                    "java code",
+                    "java coding"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "DevOps Complete Guide for 2025",
+                    "description": "All relevant lectures & video links : \n1. Complete Git & GitHub Lecture : https://www.youtube.com/watch?v=Ez8F0nW6S-w\n2. What is Docker ? : https://www.youtube.com/watch?v=H8Lyj2D_cWo\n3. What are Microservices ? : https://www.youtube.com/watch?v=7IFJb-uLEaI\n4. What is DevOps ? : https://www.youtube.com/watch?v=h7LDnVsNRVI\n5. Complete Python One Shot : https://www.youtube.com/watch?v=ERCMXc8x7mc&t=2507s\n\ud83d\ude80 DevOps 2025 Guide PDF : https://drive.google.com/file/d/1r87ZqG0ZiBJbuOLQO-15fDR0g6AlWMVe/view?usp=sharing\n\nWant to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\n#devops #development \n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/"
+                }
+            },
+            "statistics": {
+                "viewCount": "375413",
+                "likeCount": "13298",
+                "favoriteCount": "0",
+                "commentCount": "496"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "CUvJ8a9ces5LEqaX4SiBIkulfm8",
+            "id": "70cP3qtJp-s",
+            "snippet": {
+                "publishedAt": "2024-12-05T15:33:42Z",
+                "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
+                "title": "Sudoku Solver Problem | using Backtracking | Leetcode Hard",
+                "description": "Lecture 46 of DSA Series : Recursion (Part 6)\nWe will learn about more about recursion : Sudoku Solver Problem using backtracking\n\nCompany wise DSA Sheet Link : https://docs.google.com/spreadsheets/d/1mvlc8EYc3OVVU3X7NKoC0iZJr_45BL_pVxiJec0r94c/edit?usp=sharing\n\nWant to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\n\nTimestamps:\n00:00 Introduction\n00:24 Problem : N Queens\n13:48 Step1 : Code\n16:41 Checking isSafe condition\n25:40 Time Complexity\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/\n\n#recursion #callstack #backtracking #dsa #cpp #programming",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/70cP3qtJp-s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/70cP3qtJp-s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/70cP3qtJp-s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/70cP3qtJp-s/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/70cP3qtJp-s/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apna College",
+                "tags": [
+                    "C++",
+                    "C++ coding",
+                    "C++ full course",
+                    "C++ placement course",
+                    "how to code",
+                    "programming",
+                    "college placement course",
+                    "C++ language",
+                    "java",
+                    "java language",
+                    "java full course",
+                    "java placement",
+                    "java code",
+                    "java coding"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Sudoku Solver Problem | using Backtracking | Leetcode Hard",
+                    "description": "Lecture 46 of DSA Series : Recursion (Part 6)\nWe will learn about more about recursion : Sudoku Solver Problem using backtracking\n\nCompany wise DSA Sheet Link : https://docs.google.com/spreadsheets/d/1mvlc8EYc3OVVU3X7NKoC0iZJr_45BL_pVxiJec0r94c/edit?usp=sharing\n\nWant to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\n\nTimestamps:\n00:00 Introduction\n00:24 Problem : N Queens\n13:48 Step1 : Code\n16:41 Checking isSafe condition\n25:40 Time Complexity\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/\n\n#recursion #callstack #backtracking #dsa #cpp #programming"
+                }
+            },
+            "statistics": {
+                "viewCount": "45077",
+                "likeCount": "1335",
+                "favoriteCount": "0",
+                "commentCount": "117"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "hfmW8PaFK9gHLUHCN_c7Kjc1tmI",
+            "id": "BdSJnIdR-4s",
+            "snippet": {
+                "publishedAt": "2024-12-04T15:45:36Z",
+                "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
+                "title": "N-Queens Problem | using Backtracking | Leetcode Hard",
+                "description": "Lecture 45 of DSA Series : Recursion (Part 5)\nWe will learn about more about recursion : N-Queens Problem using backtracking\n\nCompany wise DSA Sheet Link : https://docs.google.com/spreadsheets/d/1mvlc8EYc3OVVU3X7NKoC0iZJr_45BL_pVxiJec0r94c/edit?usp=sharing\n\nWant to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\n\nTimestamps:\n00:00 Introduction\n00:30 Problem : N Queens\n12:34 Step1 : Code\n14:57 Checking isSafe condition\n19:22 Step2 : Code\n21:35 Initialize Board\n22:57 Time Complexity\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/\n\n#recursion #callstack #backtracking #dsa #cpp #programming",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BdSJnIdR-4s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BdSJnIdR-4s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BdSJnIdR-4s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/BdSJnIdR-4s/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/BdSJnIdR-4s/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apna College",
+                "tags": [
+                    "C++",
+                    "C++ coding",
+                    "C++ full course",
+                    "C++ placement course",
+                    "how to code",
+                    "programming",
+                    "college placement course",
+                    "C++ language",
+                    "java",
+                    "java language",
+                    "java full course",
+                    "java placement",
+                    "java code",
+                    "java coding"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "N-Queens Problem | using Backtracking | Leetcode Hard",
+                    "description": "Lecture 45 of DSA Series : Recursion (Part 5)\nWe will learn about more about recursion : N-Queens Problem using backtracking\n\nCompany wise DSA Sheet Link : https://docs.google.com/spreadsheets/d/1mvlc8EYc3OVVU3X7NKoC0iZJr_45BL_pVxiJec0r94c/edit?usp=sharing\n\nWant to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\n\nTimestamps:\n00:00 Introduction\n00:30 Problem : N Queens\n12:34 Step1 : Code\n14:57 Checking isSafe condition\n19:22 Step2 : Code\n21:35 Initialize Board\n22:57 Time Complexity\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/\n\n#recursion #callstack #backtracking #dsa #cpp #programming"
+                }
+            },
+            "statistics": {
+                "viewCount": "78700",
+                "likeCount": "1817",
+                "favoriteCount": "0",
+                "commentCount": "144"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "w5vneKyuvfFTbIPnMi1WfusOFMg",
+            "id": "N4gJDGdhpLw",
+            "snippet": {
+                "publishedAt": "2024-11-30T15:15:11Z",
+                "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
+                "title": "Permutations of an Array/String | Recursion & Backtracking",
+                "description": "Lecture 44 : Recursion (Part 4)\nWe will learn about more about recursion : Permutations of an Array\n\nCompany wise DSA Sheet Link : https://docs.google.com/spreadsheets/d/1mvlc8EYc3OVVU3X7NKoC0iZJr_45BL_pVxiJec0r94c/edit?usp=sharing\n\nWant to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\n\nTimestamps:\n00:00 Introduction\n00:20 Problem : Permutations of an Array\n17:40 Code\n19:46 Time & Space Complexity\n21:17 Homework\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/\n\n#recursion #callstack #backtracking #dsa #cpp #programming",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/N4gJDGdhpLw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/N4gJDGdhpLw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/N4gJDGdhpLw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/N4gJDGdhpLw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/N4gJDGdhpLw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apna College",
+                "tags": [
+                    "C++",
+                    "C++ coding",
+                    "C++ full course",
+                    "C++ placement course",
+                    "how to code",
+                    "programming",
+                    "college placement course",
+                    "C++ language",
+                    "java",
+                    "java language",
+                    "java full course",
+                    "java placement",
+                    "java code",
+                    "java coding"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Permutations of an Array/String | Recursion & Backtracking",
+                    "description": "Lecture 44 : Recursion (Part 4)\nWe will learn about more about recursion : Permutations of an Array\n\nCompany wise DSA Sheet Link : https://docs.google.com/spreadsheets/d/1mvlc8EYc3OVVU3X7NKoC0iZJr_45BL_pVxiJec0r94c/edit?usp=sharing\n\nWant to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\n\nTimestamps:\n00:00 Introduction\n00:20 Problem : Permutations of an Array\n17:40 Code\n19:46 Time & Space Complexity\n21:17 Homework\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/\n\n#recursion #callstack #backtracking #dsa #cpp #programming"
+                }
+            },
+            "statistics": {
+                "viewCount": "57227",
+                "likeCount": "1333",
+                "favoriteCount": "0",
+                "commentCount": "156"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "V3oi3zhAq6bEMYr5zXl735qhv4U",
+            "id": "sPM2WiwA1us",
+            "snippet": {
+                "publishedAt": "2024-11-28T17:23:51Z",
+                "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
+                "title": "GSoC 2025 Complete Roadmap | Google Summer of Code",
+                "description": "Official GSoC page : https://summerofcode.withgoogle.com/\nLink to some proposals : https://drive.google.com/drive/folders/19yW7TGX_Vp0hUeRMOwiNV98lD4Wp6rwj?usp=sharing\n\nWant to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sPM2WiwA1us/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sPM2WiwA1us/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sPM2WiwA1us/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/sPM2WiwA1us/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/sPM2WiwA1us/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apna College",
+                "tags": [
+                    "C++",
+                    "C++ coding",
+                    "C++ full course",
+                    "C++ placement course",
+                    "how to code",
+                    "programming",
+                    "college placement course",
+                    "C++ language",
+                    "java",
+                    "java language",
+                    "java full course",
+                    "java placement",
+                    "java code",
+                    "java coding"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "GSoC 2025 Complete Roadmap | Google Summer of Code",
+                    "description": "Official GSoC page : https://summerofcode.withgoogle.com/\nLink to some proposals : https://drive.google.com/drive/folders/19yW7TGX_Vp0hUeRMOwiNV98lD4Wp6rwj?usp=sharing\n\nWant to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/"
+                }
+            },
+            "statistics": {
+                "viewCount": "543984",
+                "likeCount": "24418",
+                "favoriteCount": "0",
+                "commentCount": "498"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "GnXnmb96iWz9lJNlOGatgS2tcdE",
+            "id": "pNzljlzDCiI",
+            "snippet": {
+                "publishedAt": "2024-11-27T14:38:58Z",
+                "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
+                "title": "Recursion Part 3 : Backtracking in Detail | Print all Subsets | Subsets II",
+                "description": "Lecture 43 : Recursion (Part 3)\nWe will learn about more about recursion : \n-Backtracking\n-Print all Subsets\n-Subset Problem\n-Subset II Problem \n\nCompany wise DSA Sheet Link : https://docs.google.com/spreadsheets/d/1mvlc8EYc3OVVU3X7NKoC0iZJr_45BL_pVxiJec0r94c/edit?usp=sharing\n\nWant to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\n\nTimestamps:\n00:00 Introduction\n00:26 Problem : Print all Subsets\n16:57 Code\n19:50 Time Complexity\n21:28 Problem : Subsets\n22:14 Code & Complexity\n25:34 Problem : Subsets II\n33:28 Pseudocode\n37:38 Code\n40:33 Time Complexity\n41:03 Summary\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/\n\n#recursion #callstack #backtracking #dsa #cpp #programming",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pNzljlzDCiI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pNzljlzDCiI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pNzljlzDCiI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pNzljlzDCiI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/pNzljlzDCiI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apna College",
+                "tags": [
+                    "C++",
+                    "C++ coding",
+                    "C++ full course",
+                    "C++ placement course",
+                    "how to code",
+                    "programming",
+                    "college placement course",
+                    "C++ language",
+                    "java",
+                    "java language",
+                    "java full course",
+                    "java placement",
+                    "java code",
+                    "java coding"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Recursion Part 3 : Backtracking in Detail | Print all Subsets | Subsets II",
+                    "description": "Lecture 43 : Recursion (Part 3)\nWe will learn about more about recursion : \n-Backtracking\n-Print all Subsets\n-Subset Problem\n-Subset II Problem \n\nCompany wise DSA Sheet Link : https://docs.google.com/spreadsheets/d/1mvlc8EYc3OVVU3X7NKoC0iZJr_45BL_pVxiJec0r94c/edit?usp=sharing\n\nWant to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\n\nTimestamps:\n00:00 Introduction\n00:26 Problem : Print all Subsets\n16:57 Code\n19:50 Time Complexity\n21:28 Problem : Subsets\n22:14 Code & Complexity\n25:34 Problem : Subsets II\n33:28 Pseudocode\n37:38 Code\n40:33 Time Complexity\n41:03 Summary\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/\n\n#recursion #callstack #backtracking #dsa #cpp #programming"
+                }
+            },
+            "statistics": {
+                "viewCount": "59982",
+                "likeCount": "1336",
+                "favoriteCount": "0",
+                "commentCount": "120"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "cFRuWHJ0TTZLfMg3hNsMOtTdF88",
+            "id": "4iT-GhvSKzc",
+            "snippet": {
+                "publishedAt": "2024-11-23T15:35:31Z",
+                "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
+                "title": "Recursion Part 2 : Fibonacci numbers problem, Binary search problem, Find if array sorted problem",
+                "description": "Lecture 42 : Recursion (Part 2)\nWe will learn about more about recursion : \n-Fibonacci numbers\n-Binary search\n-Find if array sorted \n\nCompany wise DSA Sheet Link : https://docs.google.com/spreadsheets/d/1mvlc8EYc3OVVU3X7NKoC0iZJr_45BL_pVxiJec0r94c/edit?usp=sharing\n\nWant to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\n\nTimestamps:\n00:00 Introduction\n00:33 Fibonacci\n06:50 Code\n07:41 Time & Space Complexity\n12:48 Is Array Sorted\n20:35 Code\n23:28 Time & Space Complexity\n24:46 Binary Search\n34:01 Code\n36:55 Time & Space Complexity\n40:08 Summary\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/\n\n#recursion #callstack #backtracking #dsa #cpp #programming",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4iT-GhvSKzc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4iT-GhvSKzc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4iT-GhvSKzc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4iT-GhvSKzc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4iT-GhvSKzc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apna College",
+                "tags": [
+                    "C++",
+                    "C++ coding",
+                    "C++ full course",
+                    "C++ placement course",
+                    "how to code",
+                    "programming",
+                    "college placement course",
+                    "C++ language",
+                    "java",
+                    "java language",
+                    "java full course",
+                    "java placement",
+                    "java code",
+                    "java coding"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Recursion Part 2 : Fibonacci numbers problem, Binary search problem, Find if array sorted problem",
+                    "description": "Lecture 42 : Recursion (Part 2)\nWe will learn about more about recursion : \n-Fibonacci numbers\n-Binary search\n-Find if array sorted \n\nCompany wise DSA Sheet Link : https://docs.google.com/spreadsheets/d/1mvlc8EYc3OVVU3X7NKoC0iZJr_45BL_pVxiJec0r94c/edit?usp=sharing\n\nWant to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\n\nTimestamps:\n00:00 Introduction\n00:33 Fibonacci\n06:50 Code\n07:41 Time & Space Complexity\n12:48 Is Array Sorted\n20:35 Code\n23:28 Time & Space Complexity\n24:46 Binary Search\n34:01 Code\n36:55 Time & Space Complexity\n40:08 Summary\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/\n\n#recursion #callstack #backtracking #dsa #cpp #programming"
+                }
+            },
+            "statistics": {
+                "viewCount": "60983",
+                "likeCount": "1489",
+                "favoriteCount": "0",
+                "commentCount": "192"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "XR5ScdxDaijxSqoZnFU1Mv4eMlw",
+            "id": "9OsMG4fI4OY",
+            "snippet": {
+                "publishedAt": "2024-11-21T16:33:42Z",
+                "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
+                "title": "Recursion Tutorial - Basics to Advanced | Part 1",
+                "description": "Lecture 41 : Recursion (Part 1)\n\nCompany wise DSA Sheet Link : https://docs.google.com/spreadsheets/d/1mvlc8EYc3OVVU3X7NKoC0iZJr_45BL_pVxiJec0r94c/edit?usp=sharing\n\nWant to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\n\nTimestamps:\n00:00 Introduction\n00:50 What is Recursion?\n09:30 Recursive Function\n11:18 Call Stack & Recursion Tree\n18:44 Math of Recursion\n20:00 Recurrence Relation\n21:56 N factorial (Recursive)\n26:31 Code\n27:26 Time Complexity in Recursion\n34:01 Space Complexity in Recursion\n37:36 Sum of N numbers (Recursive)\n42:40 Time & Space Complexity\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/\n\n#recursion #callstack #backtracking #dsa #cpp #programming",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9OsMG4fI4OY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9OsMG4fI4OY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9OsMG4fI4OY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9OsMG4fI4OY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9OsMG4fI4OY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apna College",
+                "tags": [
+                    "C++",
+                    "C++ coding",
+                    "C++ full course",
+                    "C++ placement course",
+                    "how to code",
+                    "programming",
+                    "college placement course",
+                    "C++ language",
+                    "java",
+                    "java language",
+                    "java full course",
+                    "java placement",
+                    "java code",
+                    "java coding"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Recursion Tutorial - Basics to Advanced | Part 1",
+                    "description": "Lecture 41 : Recursion (Part 1)\n\nCompany wise DSA Sheet Link : https://docs.google.com/spreadsheets/d/1mvlc8EYc3OVVU3X7NKoC0iZJr_45BL_pVxiJec0r94c/edit?usp=sharing\n\nWant to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\n\nTimestamps:\n00:00 Introduction\n00:50 What is Recursion?\n09:30 Recursive Function\n11:18 Call Stack & Recursion Tree\n18:44 Math of Recursion\n20:00 Recurrence Relation\n21:56 N factorial (Recursive)\n26:31 Code\n27:26 Time Complexity in Recursion\n34:01 Space Complexity in Recursion\n37:36 Sum of N numbers (Recursive)\n42:40 Time & Space Complexity\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/\n\n#recursion #callstack #backtracking #dsa #cpp #programming"
+                }
+            },
+            "statistics": {
+                "viewCount": "133591",
+                "likeCount": "2997",
+                "favoriteCount": "0",
+                "commentCount": "230"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "2af9L0ag9LU9OtpnrDhVl0H6ml8",
+            "id": "KDH4mhFVvHw",
+            "snippet": {
+                "publishedAt": "2024-11-19T15:44:14Z",
+                "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
+                "title": "Subarray Sum Equals K | Brute-Better-Optimal approach",
+                "description": "Lecture 40  : DSA Placement Series\nTopic : Prefix Sum & Hashing\nProblem : Leetcode 560  \n\nCompany wise DSA Sheet Link : https://docs.google.com/spreadsheets/d/1mvlc8EYc3OVVU3X7NKoC0iZJr_45BL_pVxiJec0r94c/edit?usp=sharing\n\nWant to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\n\nTimestamps:\n00:00 Introduction\n00:32 Question Explanation\n02:50 BRUTE Solution\n08:03 Code\n08:45 Time & Space Complexity\n09:14 OPTIMAL Solution\n29:40 Code\n32:35 Time & Space Complexity\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/\n\n#prefixsum #hashing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KDH4mhFVvHw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KDH4mhFVvHw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KDH4mhFVvHw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/KDH4mhFVvHw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/KDH4mhFVvHw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apna College",
+                "tags": [
+                    "C++",
+                    "C++ coding",
+                    "C++ full course",
+                    "C++ placement course",
+                    "how to code",
+                    "programming",
+                    "college placement course",
+                    "C++ language",
+                    "java",
+                    "java language",
+                    "java full course",
+                    "java placement",
+                    "java code",
+                    "java coding"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Subarray Sum Equals K | Brute-Better-Optimal approach",
+                    "description": "Lecture 40  : DSA Placement Series\nTopic : Prefix Sum & Hashing\nProblem : Leetcode 560  \n\nCompany wise DSA Sheet Link : https://docs.google.com/spreadsheets/d/1mvlc8EYc3OVVU3X7NKoC0iZJr_45BL_pVxiJec0r94c/edit?usp=sharing\n\nWant to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\n\nTimestamps:\n00:00 Introduction\n00:32 Question Explanation\n02:50 BRUTE Solution\n08:03 Code\n08:45 Time & Space Complexity\n09:14 OPTIMAL Solution\n29:40 Code\n32:35 Time & Space Complexity\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/\n\n#prefixsum #hashing"
+                }
+            },
+            "statistics": {
+                "viewCount": "59925",
+                "likeCount": "1416",
+                "favoriteCount": "0",
+                "commentCount": "126"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "1VKMU-SmJnmvmweCkFcPlbndF8U",
+            "id": "4WjtQjPQGIs",
+            "snippet": {
+                "publishedAt": "2024-11-17T16:26:04Z",
+                "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
+                "title": "Web Development Complete RoadMap for 2025 | from Basics to Advanced",
+                "description": "To start your journey you can study from the following resources\u2764\ufe0f\n\n1. HTML One Shot : https://www.youtube.com/watch?v=HcOc7P5BMi4&t=14s\n2. CSS One Shot : https://www.youtube.com/watch?v=ESnrn1kAD4E\n3. Git & GitHub One Shot : https://www.youtube.com/watch?v=Ez8F0nW6S-w\n4. Amazon Project (using HTML, CSS) : https://www.youtube.com/watch?v=nGhKIC_7Mkk\n5. JavaScript Full Course : https://www.youtube.com/watch?v=ajdRvxDWH4w&list=PLGjplNEQ1it_oTvuLRNqXfz_v_0pq6unW \n6. SQL complete tutorial : https://www.youtube.com/watch?v=hlGoQC332VM\n7.MDN docs link : https://developer.mozilla.org/en-US/\n\nYou can join our latest Tech Placement Batches \ud83d\ude80 : https://linktr.ee/apnacollege.in\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4WjtQjPQGIs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4WjtQjPQGIs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4WjtQjPQGIs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4WjtQjPQGIs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4WjtQjPQGIs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apna College",
+                "tags": [
+                    "C++",
+                    "C++ coding",
+                    "C++ full course",
+                    "C++ placement course",
+                    "how to code",
+                    "programming",
+                    "college placement course",
+                    "C++ language",
+                    "java",
+                    "java language",
+                    "java full course",
+                    "java placement",
+                    "java code",
+                    "java coding"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Web Development Complete RoadMap for 2025 | from Basics to Advanced",
+                    "description": "To start your journey you can study from the following resources\u2764\ufe0f\n\n1. HTML One Shot : https://www.youtube.com/watch?v=HcOc7P5BMi4&t=14s\n2. CSS One Shot : https://www.youtube.com/watch?v=ESnrn1kAD4E\n3. Git & GitHub One Shot : https://www.youtube.com/watch?v=Ez8F0nW6S-w\n4. Amazon Project (using HTML, CSS) : https://www.youtube.com/watch?v=nGhKIC_7Mkk\n5. JavaScript Full Course : https://www.youtube.com/watch?v=ajdRvxDWH4w&list=PLGjplNEQ1it_oTvuLRNqXfz_v_0pq6unW \n6. SQL complete tutorial : https://www.youtube.com/watch?v=hlGoQC332VM\n7.MDN docs link : https://developer.mozilla.org/en-US/\n\nYou can join our latest Tech Placement Batches \ud83d\ude80 : https://linktr.ee/apnacollege.in\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/"
+                }
+            },
+            "statistics": {
+                "viewCount": "1181422",
+                "likeCount": "45760",
+                "favoriteCount": "0",
+                "commentCount": "1722"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "XhKLcE90MsRCU5-1Bd2TTq2g5Eo",
+            "id": "X6sL8JTROLY",
+            "snippet": {
+                "publishedAt": "2024-11-14T16:53:37Z",
+                "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
+                "title": "4 Sum Problem | Optimal Approach | DSA Series by Shradha Ma'am",
+                "description": "4 Sum Problem (Leet code 18) : This is Lecture 39 of DSA Placement Series. Hashing Problems - Part 3.\n\nWant to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nCompany wise DSA Sheet Link : https://docs.google.com/spreadsheets/d/1mvlc8EYc3OVVU3X7NKoC0iZJr_45BL_pVxiJec0r94c/edit?usp=sharing\n\nNew DSA Sheet : coming soon!\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\nTimestamps\n00:00 Introduction\n00:36 4Sum Problem\n02:28 Optimal Approach\n12:31 Code\n15:00 Optimizations to remove duplicates\n20:55 Time & Space Complexity\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/X6sL8JTROLY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/X6sL8JTROLY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/X6sL8JTROLY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/X6sL8JTROLY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/X6sL8JTROLY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apna College",
+                "tags": [
+                    "C++",
+                    "C++ coding",
+                    "C++ full course",
+                    "C++ placement course",
+                    "how to code",
+                    "programming",
+                    "college placement course",
+                    "C++ language",
+                    "java",
+                    "java language",
+                    "java full course",
+                    "java placement",
+                    "java code",
+                    "java coding"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "4 Sum Problem | Optimal Approach | DSA Series by Shradha Ma'am",
+                    "description": "4 Sum Problem (Leet code 18) : This is Lecture 39 of DSA Placement Series. Hashing Problems - Part 3.\n\nWant to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nCompany wise DSA Sheet Link : https://docs.google.com/spreadsheets/d/1mvlc8EYc3OVVU3X7NKoC0iZJr_45BL_pVxiJec0r94c/edit?usp=sharing\n\nNew DSA Sheet : coming soon!\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\nTimestamps\n00:00 Introduction\n00:36 4Sum Problem\n02:28 Optimal Approach\n12:31 Code\n15:00 Optimizations to remove duplicates\n20:55 Time & Space Complexity\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/"
+                }
+            },
+            "statistics": {
+                "viewCount": "38832",
+                "likeCount": "1161",
+                "favoriteCount": "0",
+                "commentCount": "157"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "zDoZYTm_lNATvQM604YZvgQbkzk",
+            "id": "K-RsltkN63w",
+            "snippet": {
+                "publishedAt": "2024-11-12T17:14:16Z",
+                "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
+                "title": "3 Sum | Brute, Better & Optimized Approach with Codes | Leetcode 15",
+                "description": "This is Lecture 38 of DSA Placement Series. Hashing Problems - Part 2.\n\nWant to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nCompany wise DSA Sheet Link : https://docs.google.com/spreadsheets/d/1mvlc8EYc3OVVU3X7NKoC0iZJr_45BL_pVxiJec0r94c/edit?usp=sharing\n\nNew DSA Sheet : coming soon!\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\nTimestamps\n00:00 Introduction\n00:21 3Sum Qs\n02:46 IMPORTANT\n03:11 BruteForce Solution\n7:55 Code\n14:05 Time & Space Complexity\n16:02 Better Solution : Hashing\n21:02 Code\n24:14 Dry Run\n27:13 Time & Space Complexity\n28:36 Optimal Solution : 2 Pointer Approach\n41:25 Code\n43:45 Time & Space Complexity\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/K-RsltkN63w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/K-RsltkN63w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/K-RsltkN63w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/K-RsltkN63w/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/K-RsltkN63w/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apna College",
+                "tags": [
+                    "C++",
+                    "C++ coding",
+                    "C++ full course",
+                    "C++ placement course",
+                    "how to code",
+                    "programming",
+                    "college placement course",
+                    "C++ language",
+                    "java",
+                    "java language",
+                    "java full course",
+                    "java placement",
+                    "java code",
+                    "java coding"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "3 Sum | Brute, Better & Optimized Approach with Codes | Leetcode 15",
+                    "description": "This is Lecture 38 of DSA Placement Series. Hashing Problems - Part 2.\n\nWant to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nCompany wise DSA Sheet Link : https://docs.google.com/spreadsheets/d/1mvlc8EYc3OVVU3X7NKoC0iZJr_45BL_pVxiJec0r94c/edit?usp=sharing\n\nNew DSA Sheet : coming soon!\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\nTimestamps\n00:00 Introduction\n00:21 3Sum Qs\n02:46 IMPORTANT\n03:11 BruteForce Solution\n7:55 Code\n14:05 Time & Space Complexity\n16:02 Better Solution : Hashing\n21:02 Code\n24:14 Dry Run\n27:13 Time & Space Complexity\n28:36 Optimal Solution : 2 Pointer Approach\n41:25 Code\n43:45 Time & Space Complexity\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/"
+                }
+            },
+            "statistics": {
+                "viewCount": "68561",
+                "likeCount": "1584",
+                "favoriteCount": "0",
+                "commentCount": "159"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "4xir92kWi2biefQUt8FxUZawzDg",
+            "id": "6DLSDdYUB-k",
+            "snippet": {
+                "publishedAt": "2024-11-08T14:48:47Z",
+                "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
+                "title": "Interview lessons & learnings - by Shradha Ma\u2019am",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6DLSDdYUB-k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6DLSDdYUB-k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6DLSDdYUB-k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6DLSDdYUB-k/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6DLSDdYUB-k/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apna College",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Interview lessons & learnings - by Shradha Ma\u2019am",
+                    "description": ""
+                }
+            },
+            "statistics": {
+                "viewCount": "84082",
+                "likeCount": "3550",
+                "favoriteCount": "0",
+                "commentCount": "43"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "aCMsAb1rgnl7W7I41K8dFIE3KRY",
+            "id": "LEFFjgt5i6w",
+            "snippet": {
+                "publishedAt": "2024-11-04T15:45:16Z",
+                "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
+                "title": "Search a 2D Matrix - Variation I & II | 2D Arrays - Part 2 | DSA Series by Shradha Ma'am",
+                "description": "This is Lecture 35 of DSA Placement Series.\n\nWant to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nCompany wise DSA Sheet Link : https://docs.google.com/spreadsheets/d/1mvlc8EYc3OVVU3X7NKoC0iZJr_45BL_pVxiJec0r94c/edit?usp=sharing\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\n\nTimestamps\n00:00 Introduction\n00:35 Search in Matrix I (Approach)\n16:19 Code\n22:22 Time Complexity\n23:15 Search in Matrix II (Approach)\n34:10 Code\n35:35 Time Complexity\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LEFFjgt5i6w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LEFFjgt5i6w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LEFFjgt5i6w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/LEFFjgt5i6w/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/LEFFjgt5i6w/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apna College",
+                "tags": [
+                    "C++",
+                    "C++ coding",
+                    "C++ full course",
+                    "C++ placement course",
+                    "how to code",
+                    "programming",
+                    "college placement course",
+                    "C++ language",
+                    "java",
+                    "java language",
+                    "java full course",
+                    "java placement",
+                    "java code",
+                    "java coding"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Search a 2D Matrix - Variation I & II | 2D Arrays - Part 2 | DSA Series by Shradha Ma'am",
+                    "description": "This is Lecture 35 of DSA Placement Series.\n\nWant to study for Tech Placements/Internships from us :\nOur Latest Placement Batches : https://linktr.ee/apnacollege.in\n\nCompany wise DSA Sheet Link : https://docs.google.com/spreadsheets/d/1mvlc8EYc3OVVU3X7NKoC0iZJr_45BL_pVxiJec0r94c/edit?usp=sharing\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\n\nTimestamps\n00:00 Introduction\n00:35 Search in Matrix I (Approach)\n16:19 Code\n22:22 Time Complexity\n23:15 Search in Matrix II (Approach)\n34:10 Code\n35:35 Time Complexity\n\nShradha Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/"
+                }
+            },
+            "statistics": {
+                "viewCount": "48988",
+                "likeCount": "1284",
+                "favoriteCount": "0",
+                "commentCount": "169"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 49,
+        "resultsPerPage": 49
+    }
+}
