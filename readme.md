@@ -66,6 +66,7 @@ It simulates a real-world data engineering pipeline + reporting solution.
 ├── requirements.txt                 # Python dependencies
 ├── README.md
 └── .gitignore
+```
 
 
 
