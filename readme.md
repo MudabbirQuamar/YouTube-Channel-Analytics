@@ -37,7 +37,7 @@ It simulates a real-world data engineering pipeline + reporting solution.
 - Git & GitHub
 
 ---
-```markdown
+
 ## 📦 Project Structure
 
 ```YouTube-Channel-Analytics/
