@@ -14,19 +14,19 @@ and presents rich visual insights in Power BI.
 It simulates a real-world data engineering pipeline + reporting solution.
 
 
-##  Features & Insights
-✅ Fetch real-time video metadata & statistics
-✅ Clean & normalize nested JSON to structured tables
-✅ Calculate:
-    Engagement rate: (likes + comments) / views
-    Video longevity & views velocity
-    Tag analysis: do tags improve engagement?
-✅ Power BI dashboard:
-    Total views & videos
-    Top videos & tags
-    Engagement over time
-    Scatter plot: views vs. engagement
-    Tag impact charts
+##  **Features & Insights**
+- Fetch real-time video metadata & statistics
+- Clean & normalize nested JSON to structured tables
+- Calculate:
+    - Engagement rate: (likes + comments) / views
+    - Video longevity & views velocity
+    - Tag analysis: do tags improve engagement?
+- Power BI dashboard:
+    - Total views & videos
+    - Top videos & tags
+    - Engagement over time
+    - Scatter plot: views vs. engagement
+    - Tag impact charts
 
 ---
 
@@ -37,10 +37,10 @@ It simulates a real-world data engineering pipeline + reporting solution.
 - Git & GitHub
 
 ---
-
+```markdown
 ## 📦 Project Structure
 
-'''YouTube-Channel-Analytics/
+```YouTube-Channel-Analytics/
 ├── Scripts/                        # Python ETL scripts
 │   ├── fetch_data.py               # Fetch data from YouTube API
 │   ├── transform_data.py           # Clean & transform data
@@ -65,7 +65,7 @@ It simulates a real-world data engineering pipeline + reporting solution.
 │   └── YT-Apna-College-Dashboard.pdf     # Exported PDF
 ├── requirements.txt                 # Python dependencies
 ├── README.md
-└── .gitignore'''
+└── .gitignore
 
 
 
